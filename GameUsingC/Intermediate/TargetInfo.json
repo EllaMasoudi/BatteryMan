@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameUsingC",
+			"Path": "C:\\Users\\Elham\\Documents\\GitHub\\The-Tech-Academy-C---and-Unreal-Engine-Projects\\GameUsingC\\Source\\GameUsingC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameUsingCEditor",
+			"Path": "C:\\Users\\Elham\\Documents\\GitHub\\The-Tech-Academy-C---and-Unreal-Engine-Projects\\GameUsingC\\Source\\GameUsingCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

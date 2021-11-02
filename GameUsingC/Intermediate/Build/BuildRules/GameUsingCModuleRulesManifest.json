@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Elham\\Documents\\GitHub\\The-Tech-Academy-C---and-Unreal-Engine-Projects\\GameUsingC\\Source\\GameUsingC\\GameUsingC.Build.cs",
+		"C:\\Users\\Elham\\Documents\\GitHub\\The-Tech-Academy-C---and-Unreal-Engine-Projects\\GameUsingC\\Source\\GameUsingC.Target.cs",
+		"C:\\Users\\Elham\\Documents\\GitHub\\The-Tech-Academy-C---and-Unreal-Engine-Projects\\GameUsingC\\Source\\GameUsingCEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
